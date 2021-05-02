@@ -614,7 +614,7 @@ p.lower{
     .burger{
         display: flex;
         flex-direction: column;
-        margin: 20px 3vw;
+        margin: 15px 3vw;
         position: fixed;
     right: 0px;
     top: 0;
@@ -691,7 +691,7 @@ p.lower{
     .burger{
         display: flex;
         flex-direction: column;
-        margin: 20px 3vw;
+        margin: 15px 3vw;
         position: fixed;
     right: 0px;
     top: 0;

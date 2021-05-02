@@ -535,7 +535,7 @@ p.lower{
 
     #about{
         flex-direction: row-reverse;
-        padding-top: 180px;
+        padding-top: 150px;
         justify-content: center;
     }
     #bor{

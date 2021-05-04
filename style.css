@@ -632,6 +632,8 @@ p.lower{
         margin: 3px;
         height: 2px;
         background: #fff;
+                transition: 0.4s;
+
     }
     .line1{
         transform: rotate(45deg) translate(10%,5px) ;
@@ -708,6 +710,7 @@ p.lower{
         width: 20px;
         margin: 3px;
         height: 2px;
+        transition: 0.4s;
         background: #fff;
     }
     .line1{
